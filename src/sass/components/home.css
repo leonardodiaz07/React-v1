@@ -35,7 +35,7 @@
   font-family: anton, sans-serif;
   color: #ffffff;
   text-transform: uppercase;
-  background-color: #a41c27;
+  background-color: #fe630f;
   letter-spacing: 3px;
   padding: 0.5rem 4rem;
   border: 0px;
@@ -51,19 +51,19 @@
 
 .seeMore:hover {
   cursor: pointer;
-  color: #1b458f;
+  color: #8da5cf;
 }
 
 .seeMore:active {
   cursor: pointer;
-  color: #1b458f;
+  color: #e75f0a;
   -webkit-box-shadow: #ccdbe8 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
           box-shadow: #ccdbe8 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
 }
 
 .seeMore:hover {
-  color: #fed406;
-  background-color: #1b458f;
+  color: #929088;
+  background-color: #312d29;
 }
 
 .seeMore:active {

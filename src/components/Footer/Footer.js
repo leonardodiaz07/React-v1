@@ -41,7 +41,7 @@ const Footer = () => {
                 <div className="footerAboutUs">
                     <h1>Sobre nosotros</h1>
                     <p>Nuestra Historia</p>
-                    <p>Sponsors</p>
+                    <p>Clientes Destacados</p>
                     
                 </div>
                 <div className="footerHelp">
@@ -51,7 +51,7 @@ const Footer = () => {
                     
                 </div>
                 <div className="footerConnect">
-                    <h1>Conectate con nosotros</h1>
+                    <h1>Más sobre nosotros</h1>
                     <div className="icons">
                         <InstagramOutlined className="iconConnect"/>
                         <FacebookOutlined className="iconConnect iconConnectMiddle"/>

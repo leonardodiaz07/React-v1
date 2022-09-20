@@ -24,7 +24,7 @@ const NavBar = ({children}) => {
             <div className="navBar">
                 <ul>
                     {user === undefined ?
-                    <li className="log"><Link to={"/login"}>Log In</Link></li>
+                    <li className="log"><Link to={"/login"}>Ingresar</Link></li>
                     :
                     <>
                         <p className="welcomeSign">Bienvenido, {user.username}!</p>
